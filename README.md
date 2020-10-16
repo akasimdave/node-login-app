@@ -1,3 +1,3 @@
 # node-login-app
 
-link to tutorial: https://github.com/akasimdave/node-login-app.git
+link to tutorial: https://morioh.com/p/8d907b1b9ee0
